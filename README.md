@@ -4,7 +4,7 @@ Banking System is a console based application developed using C.
 
 It manages the bank accounts of users. 
 
-# Features: 
+## Features: 
 1. Opening of Account 
 2. Checking of Account Details
 3. Withdrawal of Cash 
