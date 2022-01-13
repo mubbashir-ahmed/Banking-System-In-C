@@ -1,0 +1,17 @@
+
+Bank Name: Mezan
+Branch Name: North-Karachi
+Branch Code: 123
+Account Holder Name: Mubbashir
+Account Number: 4
+Account Holder Address: Sector11
+Balance: 10000.0
+
+Bank Name: Mezan
+Branch Name: Gulistan-e-Jauhar
+Branch Code: 77
+Account Holder Name: Imran
+Account Number: 2
+Account Holder Address: Gulistan-e-Jauhar
+Balance: 8780.0
+
