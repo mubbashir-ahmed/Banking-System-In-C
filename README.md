@@ -1,6 +1,6 @@
 # Bank Management System
 
-Banking System is a console based application developed using C language.
+Banking System is a console based application developed using C.
 
 It manages the bank accounts of users. 
 
